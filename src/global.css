@@ -1,0 +1,13 @@
+body {
+	margin: 0;
+}
+
+@font-face {
+	font-family: Milk;
+	src: url(./assets/fonts/lemon-milk-font/LemonMilkMedium-mLZYV.otf);
+}
+
+@font-face {
+	font-family: Nunito;
+	src: url(./assets/fonts/Nunito/Nunito-Light.ttf);
+}
